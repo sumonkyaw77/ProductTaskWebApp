@@ -1,0 +1,36 @@
+﻿@model IEnumerable<TaskProductWebApplication.Models.Product>
+        <div class="container mt-3">
+            <h3>Product List</h3>
+            <a href="@Url.Action("Create", "Product")" class="btn btn-primary float-right mb-2">Add Product</a>
+
+            <table class="table table-bordered">
+                <thead class="thead-light">
+                    <tr>
+                        <th>SN</th>
+                        <th>Product</th>
+                        <th>Description</th>
+                        <th>Created</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int sn = 1;
+                        foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@sn</td>
+                                <td>@item.ProductName</td>
+                                <td>@item.Description</td>
+                                <td>@item.Created.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                                <td>
+                                    <a href="@Url.Action("Edit", "Product", new { id = item.ProductID })" class="btn btn-info btn-sm">✏️</a>
+                                    <a href="@Url.Action("Delete", "Product", new { id = item.ProductID })" class="btn btn-danger btn-sm">❌</a>
+                                </td>
+                            </tr>
+                            sn++;
+                        }
+                    }
+                </tbody>
+            </table>
+        </div>

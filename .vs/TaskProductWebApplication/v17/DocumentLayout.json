@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|d:\\personaltestingprojects\\taskproductwebapplication\\taskproductwebapplication\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|solutionrelative:taskproductwebapplication\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\PersonalTestingProjects\\TaskProductWebApplication\\Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Views\\Products\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|d:\\personaltestingprojects\\taskproductwebapplication\\taskproductwebapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|solutionrelative:taskproductwebapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|d:\\personaltestingprojects\\taskproductwebapplication\\taskproductwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|solutionrelative:taskproductwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|d:\\personaltestingprojects\\taskproductwebapplication\\taskproductwebapplication\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|solutionrelative:taskproductwebapplication\\data\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|d:\\personaltestingprojects\\taskproductwebapplication\\taskproductwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|solutionrelative:taskproductwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|d:\\personaltestingprojects\\taskproductwebapplication\\taskproductwebapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|solutionrelative:taskproductwebapplication\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|d:\\personaltestingprojects\\taskproductwebapplication\\taskproductwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D062F6-2550-4EA5-88D7-749ED5DAC91A}|TaskProductWebApplication\\TaskProductWebApplication.csproj|solutionrelative:taskproductwebapplication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T19:49:54.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "TaskProductWebApplication\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "TaskProductWebApplication\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:49:43.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskProductWebApplication\\appsettings.json",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\appsettings.json",
+              "RelativeToolTip": "TaskProductWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T19:25:29.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Data\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "TaskProductWebApplication\\Data\\ProductRepository.cs",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Data\\ProductRepository.cs",
+              "RelativeToolTip": "TaskProductWebApplication\\Data\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:24:45.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "TaskProductWebApplication\\Program.cs",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Program.cs",
+              "RelativeToolTip": "TaskProductWebApplication\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAwwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:07:56.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TaskProductWebApplication\\Models\\Product.cs",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Models\\Product.cs",
+              "RelativeToolTip": "TaskProductWebApplication\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:16:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "TaskProductWebApplication\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "TaskProductWebApplication\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T19:08:59.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "TaskProductWebApplication\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PersonalTestingProjects\\TaskProductWebApplication\\TaskProductWebApplication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "TaskProductWebApplication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T18:56:56.912Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
